@@ -26,6 +26,7 @@
     "lodash": "^4.17.21",
     "node-sass": "4.14.0",
     "npm": "^6.14.13",
+    "pubsub-js": "^1.9.3",
     "sass-loader": "6.0.6",
     "svg-sprite-loader": "3.7.3",
     "vue": "2.5.16",
